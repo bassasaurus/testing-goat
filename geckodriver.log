@@ -590,3 +590,23 @@ console.error: services.settings:
   main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598988552252	geckodriver	INFO	Listening on 127.0.0.1:61529
+1598988553276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileCZYpwr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598988555516	Marionette	INFO	Listening on port 61536
+1598988555536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598988555736	Marionette	INFO	Stopped listening on port 61536
+1598988557082	geckodriver	INFO	Listening on 127.0.0.1:61586
+1598988558094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofilehOnJ7k"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598988559937	Marionette	INFO	Listening on port 61593
+1598988560027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598988560347	Marionette	INFO	Stopped listening on port 61593
+1598988562723	geckodriver	INFO	Listening on 127.0.0.1:61637
+1598988563734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileJKlTKw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598988565588	Marionette	INFO	Listening on port 61644
+1598988565682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598988565897	Marionette	INFO	Stopped listening on port 61644
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.

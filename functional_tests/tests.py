@@ -14,8 +14,8 @@ class NewVisitorTest(StaticLiveServerTestCase):
 
     def setUp(self):
         cap = DesiredCapabilities().FIREFOX
-cap["marionette"] = False
-browser = webdriver.Firefox(capabilities=cap, executable_path="/bin/geckodriver")
+        cap["marionette"] = False
+        browser = webdriver.Firefox(capabilities=cap, executable_path="/bin/geckodriver")
         staging_server = os.environ.get('STAGING_SERVER')
         if staging_server:
             self.live_server_url = 'http://' + staging_server

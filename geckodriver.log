@@ -533,3 +533,60 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1598980338731	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
 1598980339495	Marionette	INFO	Stopped listening on port 58250
+1598985783994	geckodriver	INFO	Listening on 127.0.0.1:60197
+1598985785005	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofilejkdOwg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985787184	Marionette	INFO	Listening on port 60205
+1598985787245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1598985788624	Marionette	INFO	Stopped listening on port 60205
+1598985789964	geckodriver	INFO	Listening on 127.0.0.1:60264
+1598985790970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofilehqxHO4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985792746	Marionette	INFO	Listening on port 60271
+1598985792813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1598985793590	Marionette	INFO	Stopped listening on port 60271
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1598985794921	geckodriver	INFO	Listening on 127.0.0.1:60317
+1598985795940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileSjRQo1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985797818	Marionette	INFO	Listening on port 60324
+1598985797872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1598985798610	Marionette	INFO	Stopped listening on port 60324
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1598985799924	geckodriver	INFO	Listening on 127.0.0.1:60373
+1598985800935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileYE5aqd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985802710	Marionette	INFO	Listening on port 60381
+1598985802783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1598985803537	Marionette	INFO	Stopped listening on port 60381
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1598985829558	geckodriver	INFO	Listening on 127.0.0.1:60436
+1598985830572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileM0c39A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985832426	Marionette	INFO	Listening on port 60443
+1598985832522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598985832664	Marionette	INFO	Stopped listening on port 60443
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1598985834046	geckodriver	INFO	Listening on 127.0.0.1:60486
+1598985835064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofile7FQnsl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985836867	Marionette	INFO	Listening on port 60493
+1598985836901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598985836983	Marionette	INFO	Stopped listening on port 60493
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598985838333	geckodriver	INFO	Listening on 127.0.0.1:60532
+1598985839347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/cpyfxkq91xj5hqy15wfmv2bh0000gn/T/rust_mozprofileOS9C4b"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598985841184	Marionette	INFO	Listening on port 60539
+1598985841192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598985841280	Marionette	INFO	Stopped listening on port 60539
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
